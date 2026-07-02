@@ -5,3 +5,16 @@ client.db
 second.db
 users.db
 sample_logs.log
+diabetes.csv
+output.csv
+parsed_logs.csv
+adult.csv
+diamonds.csv
+gender_submission.csv
+sales.csv
+test.csv
+train.csv
+winequality-red.csv
+below_average_korean.txt
+new_text.txt
+scores_korean.txt

@@ -18,3 +18,7 @@ winequality-red.csv
 below_average_korean.txt
 new_text.txt
 scores_korean.txt
+app.py
+ip_analysis.csv
+data.json
+sample_logs.log
